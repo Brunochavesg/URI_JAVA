@@ -10,6 +10,8 @@ public class Ex1001 {
 		
 		System.out.println("X = " + X);
 		
+		//
+		
 		
 	}
 
