@@ -2,18 +2,19 @@ package Iniciante;
 
 import java.util.Scanner;
 
-public class Ex1001 {
+public class Ex1003 {
 
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
-		int A, B, X;
 
-		A = input.nextInt(); // Fazer entrada sem um syso
+		int A, B, soma;
+
+		A = input.nextInt();
 		B = input.nextInt();
-		X = (A + B);
+		soma = (A + B);
 
-		System.out.println("X = " + X);
+		System.out.println("SOMA = " + soma);
 
 	}
 
